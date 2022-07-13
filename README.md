@@ -1,4 +1,4 @@
-<img src="Aditya Jamwal.png">
+<img src="banner.png">
 
 
 # Hi, I'm Aditya Jamwal 👋
