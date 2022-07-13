@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Jamwal 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=adityajamwal02&style=for-the-badge&color=blueviolet)
 
 
 ## 🚀 About Me
