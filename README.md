@@ -15,5 +15,5 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityaJamwal02)
 
 # Github Stats
-https://github-readme-stats.vercel.app/api?username=adityajamwal02&show_icons=true&theme=radical
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajamwal02&show_icons=true&theme=radical)
 
