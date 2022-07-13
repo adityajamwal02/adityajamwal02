@@ -1,5 +1,8 @@
 # Hi, I'm Aditya Jamwal 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet)
+
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Backend AI**
@@ -15,5 +18,5 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityaJamwal02)
 
 # Github Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajamwal02&show_icons=true&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajamwal02&show_icons=true&theme=dark)
 
