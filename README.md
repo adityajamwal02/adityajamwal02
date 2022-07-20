@@ -28,3 +28,4 @@
 
 # Github Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityajamwal02&show_icons=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajamwal02&theme=highcontrast)](https://git.io/streak-stats)
+
