@@ -6,10 +6,10 @@
 ![](https://komarev.com/ghpvc/?username=adityajamwal02&style=for-the-badge&color=blueviolet)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Time Series Analytics**
-- 🌱 I’m currently learning *MERN Stack*
-- 👯 I’m looking to collaborate on **Web Dev. & Machine Learning**
-- 🤔 I’m looking for help with *Deep Learning*
+- 🔭 Currently working on **Time Series Analytics**
+- 🌱 Polishing skills on *MERN Stack*
+- 👯 Looking to collaborate on **Web Dev. & Machine Learning**
+- 🤔 Help with *Deep Learning and Genetic Algorithms*
 - 💬 Ask me about **Data structures and Algorithms, Machine Learning and Data Science**
 - 📫 How to reach me: aditya.vicky01@gmail.com
 <br>
