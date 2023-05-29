@@ -1,16 +1,14 @@
 <img src="banner.png">
 
-
 # Hi, I'm Aditya Jamwal 👋
 
 ![](https://komarev.com/ghpvc/?username=adityajamwal02&style=for-the-badge&color=blueviolet)
 
 ## 🚀 About Me
-- 🔭 Currently working on **Time Series Analytics**
+- 🔭 Currently working on **Software Development and Data Engineering**
 - 🌱 Polishing skills on *MERN Stack*
-- 👯 Looking to collaborate on **Web Dev. & Machine Learning**
-- 🤔 Help with *Deep Learning and Genetic Algorithms*
-- 💬 Ask me about **Data structures and Algorithms, Machine Learning and Data Science**
+- 👯 Looking to collaborate on **Full Stack Development, Data Science and Machine Learning Algorithms**
+- 💬 Ask me about **Data structures and Algorithms, Software Engineering**
 - 📫 How to reach me: aditya.vicky01@gmail.com
 <br>
 
