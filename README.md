@@ -3,8 +3,7 @@
 # Hi, I'm Aditya Jamwal 👋
 
 ![](https://komarev.com/ghpvc/?username=adityajamwal02&style=for-the-badge&color=blueviolet)
-
-## 🚀 About Me
+<center> ## 🚀 About Me </center>
 <p align="center">
 - 🔭 Currently working on **Software Development and Data Engineering**
 - 🌱 Polishing skills on *MERN Stack*
