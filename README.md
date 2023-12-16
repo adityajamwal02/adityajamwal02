@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=adityajamwal02&style=for-the-badge&color=blueviolet)
 ## 🚀 About Me 
-- 🔭 Currently working on **Software Development and Data Engineering**
-- 🌱 Polishing skills on *MERN Stack*
-- 👯 Looking to collaborate on **Full Stack Development, Data Science and Machine Learning Algorithms**
+- 🔭 Currently working on **Software Development and System Design**
+- 🌱 Polishing skills on *Backend Services and APIs*
+- 👯 Looking to collaborate on **Development, Data Engineering and Machine Learning Algorithms**
 - 💬 Ask me about **Data structures and Algorithms, Software Engineering**
 - 📫 How to reach me: aditya.vicky01@gmail.com
 <br>
