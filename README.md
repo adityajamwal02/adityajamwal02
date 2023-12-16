@@ -20,10 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://github.com/adityajamwal02"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/adityajamwal02/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:aditya.vicky01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/AdityaJamwal02"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
-
-## Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajamwal02&theme=highcontrast)](https://git.io/streak-stats)
-  
+ 
 <p align="center">
   <img src="https://camo.githubusercontent.com/d5777c63c1b21f3cdc6f7120970ba07db70159af0333d6e6783ebf162cbcc37c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d38302673656374696f6e3d666f6f746572" />
 </p>
